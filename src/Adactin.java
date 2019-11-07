@@ -17,6 +17,8 @@ z.sendKeys("asosdihfji");
 String n = z.getAttribute("value");
 System.out.println(n);
 driver.quit();
+System.out.println("hai");
+System.out.println("hello");
 	}
 	
 }
